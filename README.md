@@ -1,5 +1,5 @@
 # OrderManagementSystem
-an Order Management System with Rest API’s where API clients will be able
+An Order Management System with Rest API’s where API clients will be able
 to add orders, edit orders, delete orders and view orders.
 - An order contains buyer information, order status, shipping address. An order can have
 many order items. Each order item has a quantity and is associated with a product. A
