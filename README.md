@@ -11,14 +11,3 @@ orders.
 - There are two user roles: Administrator and Buyer. Buyer should be able to see only
 their orders, Administrator should be able to see all orders in the system
 - Once order has been placed, buyer should receive an email.
-- Technical Requirements:
-- Use ASP.NET MVC Web API
-- Use ASP.NET MVC 4.5
-- Use SQL Server Express Edition
-- Use Microsoft Visual Studio Community Edition
-- Use Postman for testing the developed API’s
-- Use RestFul Standard
-- Use Stored procedure where necessary to perform joins
-- Use Nuget package manager for dependencies
-- There is no need of any user interface. Everything need to be tested from a Rest
-Client like Postman
